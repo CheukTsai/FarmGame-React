@@ -1,6 +1,6 @@
 # Where'd U Hide Beta V0.1.11.17
 
-## New Update - Post before School Project 2 ddl (11.17):
+## New Update:
 ### I.What were some challenges you faced while making this app?
 Lots of challenges popped up during this app:
 1. React-dnd:
